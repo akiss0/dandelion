@@ -29,9 +29,7 @@ Other parameter values can be specified by using the parameter's name as option.
 FreeFem++ dandelion.cpp
 </pre>
 
-The simulation generates Figures 5a and 5e of the hydrated and dehydrated actuator tissue structure, the image of the initial mesh, the deformed one, as well as their superposition. It also prints out the areachange for each structural region corresponding to the simulation. These are the areachange values in the "Model output" serie of Figure 5b. The generated side angle value is also printed in degrees.
-
-Finally, the compilation and execution times are printed.
+The simulation generates Figures 5a and 5e of the hydrated and dehydrated actuator tissue structure, the image of the initial mesh, the deformed one, as well as their superposition. It also prints out the areachange for each structural region corresponding to the simulation. These are the areachange values in the "Model output" serie of Figure 5b. The generated side angle value is also printed in degrees. Finally, the compilation and execution times are printed.
 
 <pre>
 nvertex=40
