@@ -2,7 +2,7 @@
 
 Plants can generate motion by absorbing and releasing water. By investigating the structure and properties of the actuator cell walls we have identified the mechanism by which the dandelion pappus closes and developed a structural computational model that can capture observed pappus closing.
 
-This model was used to explore the contribution of differential material domains in the actuator function and the critical design features in the preprint "*Madeleine Seale, Annamaria Kiss, Simone Bovio, Ignazio Maria Viola, Enrico Mastropaolo, Arezki Boudaoud, Naomi Nakayama,* **Dandelion pappus morphing is actuated by radially patterned material swelling**, doi: https://doi.org/10.1101/2021.08.23.457337":https://www.biorxiv.org/content/10.1101/2021.08.23.457337v1
+This model was used to explore the contribution of differential material domains in the actuator function and the critical design features in the preprint "*Madeleine Seale, Annamaria Kiss, Simone Bovio, Ignazio Maria Viola, Enrico Mastropaolo, Arezki Boudaoud, Naomi Nakayama,* **Dandelion pappus morphing is actuated by radially patterned material swelling**, [https://doi.org/10.1101/2021.08.23.457337](https://www.biorxiv.org/content/10.1101/2021.08.23.457337v1)
 
 The "dandelion.cpp" FreeFem script implements the model.
 
